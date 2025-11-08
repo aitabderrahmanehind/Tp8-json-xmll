@@ -10,6 +10,8 @@ Ce projet est une application Spring Boot qui expose une API RESTful pour gérer
 <img width="1849" height="970" alt="image" src="https://github.com/user-attachments/assets/b374dc1f-e669-43c3-a903-cfacad923a81" />
 <img width="1868" height="975" alt="image" src="https://github.com/user-attachments/assets/9848a0fc-7434-4bae-b47b-5a50815efc44" />
 <img width="1915" height="973" alt="image" src="https://github.com/user-attachments/assets/19ede02a-68c5-4822-9b90-f9cd60f200b0" />
+
+
 ## Project Structure
 ```
 .
