@@ -3,6 +3,13 @@
 ## Description
 Ce projet est une application Spring Boot qui expose une API RESTful pour gérer des comptes bancaires. Elle permet d'effectuer des opérations CRUD (Create, Read, Update, Delete) sur les comptes. L'application utilise une base de données en mémoire H2 et supporte les formats JSON et XML pour les requêtes et les réponses.
 
+<img width="1377" height="976" alt="image" src="https://github.com/user-attachments/assets/af6d3530-75fe-4aa2-8a1c-adde44f812a2" />
+<img width="1407" height="969" alt="image" src="https://github.com/user-attachments/assets/a2dc1ef7-505a-456f-92b0-e8e48d5cdee2" />
+<img width="1359" height="971" alt="image" src="https://github.com/user-attachments/assets/edb80f93-696c-448c-a7d5-8778d8f21187" />
+<img width="1833" height="978" alt="image" src="https://github.com/user-attachments/assets/0188f08b-46fa-4078-b7c5-636c7c0fb159" />
+<img width="1849" height="970" alt="image" src="https://github.com/user-attachments/assets/b374dc1f-e669-43c3-a903-cfacad923a81" />
+<img width="1868" height="975" alt="image" src="https://github.com/user-attachments/assets/9848a0fc-7434-4bae-b47b-5a50815efc44" />
+<img width="1915" height="973" alt="image" src="https://github.com/user-attachments/assets/19ede02a-68c5-4822-9b90-f9cd60f200b0" />
 ## Project Structure
 ```
 .
